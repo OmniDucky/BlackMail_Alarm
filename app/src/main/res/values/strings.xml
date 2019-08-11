@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">BlackMail_Alarm</string>
+    <string name="action_open_repository">Open your repository</string>
+    <string name="action_delete_all_alarms">Delete All Alarms</string>
+    <string name="action_add_secret">Add a new secret</string>
+    <string name="hint_title">What is your secret ? </string>
+    <string name="hint_content"> Write your secret here </string>
+    <string name="secret_with"> A secret with </string>
+    <string name="empty_view_title_text">You do not have any secrets ? </string>
+    <string name="empty_view_subtitle_text">Do you want to add any secrets ?</string>
+    <string name="editor_activity_title_new_secret">Add a Secret</string>
+    <string name="action_save">Save</string>
+    <string name="action_delete">Delete</string>
+    <string name="delete_dialog_msg">Delete this secret?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="editor_delete_secret_successful">Secret deleted</string>
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+    <string name="action_delete_all_entries">Delete All Secrets</string>
+    <string name="action_insert_secret_data">Insert Secret</string>
+    <!-- Dialog button text for the option to discard a user's changes [CHAR LIMIT=20] -->
+    <string name="discard">Discard</string>
+
+    <string name="keep_editing">Keep Editing</string>
+    <string name="editor_insert_secret_successful">Secret saved</string>
+
+    <!-- Toast message in editor when new secret has failed to be inserted [CHAR LIMIT=NONE] -->
+    <string name="editor_insert_secret_failed">Error with saving secret</string>
+    <!-- Toast message in editor when current secret was successfully updated [CHAR LIMIT=NONE] -->
+    <string name="editor_update_secret_successful">Secret updated</string>
+
+    <!-- Toast message in editor when current secret has failed to be updated [CHAR LIMIT=NONE] -->
+    <string name="editor_update_secret_failed">Error with updating secret</string>
+    <string name="editor_delete_secret_failed">Error with deleting secret</string>
+    <!-- Title for the activity to edit an existing pet [CHAR LIMIT=20] -->
+    <string name="editor_activity_title_edit_secret">Edit Secret</string>
+</resources>
